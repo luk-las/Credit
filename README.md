@@ -1,6 +1,6 @@
 ### Credit
 
-Program calculate monthly instalment and entire cost of credit.
+Program calculating monthly instalment and entire cost of credit.
 
 Application using Spring, JSP and Maven built in Eclipse Jee.
 
